@@ -1,44 +1,44 @@
-formula,nombre,carga
-I,yoduro ,1
-Cl,cloruro ,1
-Br,bromuro ,1
-F,fluoruro ,1
-S,sulfuro ,2
-Se,seleniuro ,2
-N,nitruro ,3
-CN,cianuro ,1
-OH,hidr¢xido ,1
-NO2,nitrito ,1
-NO3-,nitrato ,1
-BrO,hipobromito ,1
-BrO2,bromito ,1
-BrO3,bromato ,1
-BrO4-,perbromato ,1
-IO,hipoyodito ,1
-IO2,yodito ,1
-IO3,yodato ,1
-IO4,peryodato ,1
-ClO,hipoclorito ,1
-ClO2,clorito ,1
-ClO3,clorato ,1
-ClO4-,perclorato ,1
-C2O4,oxalato ,2
-CO3,carbonato ,2
-HCO3,hidr¢geno carbonato,1
-CH3COO,acetato ,1
-CrO4,cromato ,2
-Cr2O7,dicromato ,2
-MnO4,permanganato ,1
-PO4,fosfato ,3
-HPO4,hidr¢geno fosfato,2
-H2PO4,dihidr¢geno fosfato ,1
-SO3,sulfito,2
-HSO3,hidr¢geno sulfito,1
-SO4,sulfato,2
-HSO4,hidr¢geno sulfato,1
-S2O3,tiosulfato ,2
-SeO3,selenito ,2
-SeO4,selenato ,2
-SCN,tiocianato ,1
-O,óxido,2
-O2,peróxido,2
+formula,nombre,carga,poly
+I,yoduro,1,0
+Cl,cloruro,1,0
+Br,bromuro,1,0
+F,fluoruro,1,0
+S,sulfuro,2,0
+Se,seleniuro,2,0
+N,nitruro,3,0
+CN,cianuro,1,1
+OH,hidr¢xido ,1,1
+NO2,nitrito,1,1
+NO3,nitrato,1,1
+BrO,hipobromito,1,1
+BrO2,bromito,1,1
+BrO3,bromato,1,1
+BrO4,perbromato,1,1
+IO,hipoyodito,1,1
+IO2,yodito,1,1
+IO3,yodato,1,1
+IO4,peryodato,1,1
+ClO,hipoclorito,1,1
+ClO2,clorito,1,1
+ClO3,clorato,1,1
+ClO4,perclorato,1,1
+C2O4,oxalato,2,1
+CO3,carbonato,2,1
+HCO3,hidr¢geno carbonato,1,1
+CH3COO,acetato,1,1
+CrO4,cromato,2,1
+Cr2O7,dicromato,2,1
+MnO4,permanganato,1,1
+PO4,fosfato,3,1
+HPO4,hidr¢geno fosfato,2,1
+H2PO4,dihidr¢geno fosfato,1,1
+SO3,sulfito,2,1
+HSO3,hidr¢geno sulfito,1,1
+SO4,sulfato,2,1
+HSO4,hidr¢geno sulfato,1,1
+S2O3,tiosulfato,2,1
+SeO3,selenito,2,1
+SeO4,selenato,2,1
+SCN,tiocianato,1,1
+O,óxido,2,1
+O2,peróxido,2,1
