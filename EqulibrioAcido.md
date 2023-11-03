@@ -62,26 +62,12 @@ df.columns=col_name
 df.head()
 ```
 
-    ['pH', 'alpha0', 'alpha1', 'alpha2', 'alpha3']
-    
 
 
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -160,14 +146,9 @@ plt.ylabel(r'$\alpha$')
 plt.title("Equilibrio Ácido: fracciones vs pH")
 plt.legend(title=r'$\alpha_n$' ,loc="center right",labels=labels,fontsize="10")
 ```
-
-    ['$\\alpha_{H_3A}$', '$\\alpha_{H_2A^{-1}}$', '$\\alpha_{HA^{-2}}$', '$\\alpha_{A^{-3}}$']
-    
+ 
 
 
-
-
-    <matplotlib.legend.Legend at 0x180f685df10>
 
 
 
