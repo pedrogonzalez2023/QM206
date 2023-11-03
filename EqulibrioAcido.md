@@ -1,13 +1,16 @@
 # Equilibrio Ácido
 
 $$ H_2A \rightleftharpoons H^+ + HA^{-1} $$
+
 $$ HA^{-1} \rightleftharpoons  H^+ + A^{-2} $$
 
 
 $$ total=1*[H_3O]^2 + 1*k_1*[H_3O]^{1} + 1*k_1*k_2*[H_3O]^0 $$
 
 $$ \alpha_{H_2A}=\frac{1*[H_3O]^2}{total} $$
+
 $$ \alpha_{HA^{-1}}=\frac{1*k_1*[H_3O]^{1}}{total} $$
+
 $$ \alpha_{A^{-2}}=\frac{1*k_1*k_2*[H_3O]^{0}}{total} $$
 
 
